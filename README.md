@@ -14,3 +14,5 @@ No deberíamos tener funcionalidades que no se ocupen actualmente “por si en e
 La documentación debe tener la información estrictamente necesaria.
 El código debe ser lo más obvio y sencillo posible. Se deben evitar esas líneas que sólo sirven para presumir lo inteligente que eres.
 El diseño debe mantener la estructura simple, siempre que se pueda.
+
+Tambien en mi punto de vista se usa el principio Single Responsibility (Responsabilidad Única) que nos habla sobre una entidad de software debería tener una sola responsabilidad, esto también se puede interpretar como “tener una y sólo una razón para cambiar”. En pocas palabras, tu componente/función/clase debería hacer muy bien una sola cosa.
