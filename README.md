@@ -1,3 +1,9 @@
+README-cliente-servidor.md Título del Proyecto Catalogo de personajes
+
+Versionado 📌 V 1.2
+
+Autor ✒️ David Leonardo Lancheros
+
 El patron de diseño que en mi opinión se uso fue el abstract Factory:
 debido a que proporciono una interfaz para crear familias de objetos relacionados o dependientes sin especificar sus clases concretas.
 Una jerarquía que encapsula: muchas "plataformas" posibles y la construcción de una suite de "productos".
