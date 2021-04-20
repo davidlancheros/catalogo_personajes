@@ -6,7 +6,7 @@ Versionado 📌 V 1.3
 
 Autor ✒️ David Leonardo Lancheros
 
-El patron de diseño que se uso fue el bridge o puente:
+El patron de diseño que se uso fue el Decorador o Decorator:
 
 La utilidad principal del patrón Decorator en este ejemplo, es la de dotar de funcionalidades dinámicamente a objetos mediante composición. Es decir, vamos a decorar los objetos para darles más funcionalidad de la que tienen en un principio.
 
