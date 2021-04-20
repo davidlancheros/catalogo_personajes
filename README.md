@@ -12,7 +12,8 @@ La utilidad principal del patrón Decorator en este ejemplo, es la de dotar de f
 
 Esto es algo verdaderamente útil cuándo queremos evitar jerarquías de clases complejas. La herencia es una herramienta poderosa, pero puede hacer que nuestro diseño sea mucho menos extensible. 
 
-![imagen](https://user-images.githubusercontent.com/37816530/115420039-71cd3a00-a1c0-11eb-906e-607feb41e0f7.png)
+![imagen](https://user-images.githubusercontent.com/37816530/115420574-de483900-a1c0-11eb-9674-66dc38a2114d.png)
+
 
 Propósito
 
